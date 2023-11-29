@@ -13,3 +13,7 @@
 2. Data transformation/Text processing using R/Python
 3. Need to get sentiments Analysis and Emotion mining with some charts like histogram, Density plot, Barplot, pie-plot etc. 
 4. Deployment through R Shiny or Flask/ Streamlit
+
+
+https://github.com/SoviD7/Twitter-Sentiment-Analysis/assets/121309378/300b8a1a-ae3a-4235-9907-5ba56a91c1e4
+
